@@ -1,0 +1,2 @@
+oldindex	= index for  Mid Term
+index	= index for Final Exam
